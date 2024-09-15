@@ -8,6 +8,12 @@ from HigherLowerArt import vs
 import random
 
 def high_low_game():
+    '''
+    This function is the main core of the HigherLower Game.
+    After running the function 2 options will appear you will need to think who got more followers on Instagram.
+    The data is updated last on September 2024.
+    Enjoy playing endlessly
+    '''
     right_counter = 0
     game_on = True
     print(logo)
