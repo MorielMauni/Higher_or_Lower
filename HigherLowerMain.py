@@ -45,6 +45,9 @@ def high_low_game():
         # Correct answer
         if b_follow > a_follow:
             correct_answer = 'B'
+        # If A=B
+        elif b_follow == a_follow:
+            correct_answer = 'B'
         else:
             correct_answer = 'A'
         # check if correct_answer == user_guess
