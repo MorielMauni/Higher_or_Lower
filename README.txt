@@ -1,9 +1,9 @@
-# Higher or Lower Game
+Higher or Lower Game
 
-# Description
-The "Higher or Lower" game is a simple number guessing game where players try to guess if the next number will be higher or lower than the current number. This project demonstrates basic game logic and user interaction.
+Description
+The "Higher or Lower" game is a simple number-guessing game where players try to guess if the next number will be higher or lower than the current number. This project demonstrates basic game logic and user interaction.
 
-# Installation
+Installation
 To set up and run this project locally, follow these steps:
 
 1. **Clone the repository:**
@@ -20,14 +20,14 @@ To set up and run this project locally, follow these steps:
    pip install -r requirements.txt
    
 
-# Usage
+Usage
 To play the game, run the main script. You can execute it with the following command:
 bash
 python game.py
 
 Replace `game.py` with the script file if it has a different name.
 
-# Contributing
+Contributing
 Contributions are welcome! To contribute to this project:
 
 1. Fork the repository.
@@ -36,7 +36,7 @@ Contributions are welcome! To contribute to this project:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a Pull Request.
 
-# Contact
+Contact
 Moriel Mauni - [morielmauni@gmail.com]
 
 Project Link: [https://github.com/MorielMauni/Higher_or_Lower](https://github.com/MorielMauni/Higher_or_Lower)
